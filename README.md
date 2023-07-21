@@ -29,7 +29,11 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Usage
-This application is quite straightforward. Simply click on the colored time block you'd like to save an event, or notes, within, then type whatever you would like into the box. After entering your text, click the save button on the right hand side. Now that you've clicked save you can refresh the page or leave and come back any time you'd like, and your inputs will automatically populate within each respective time block.
+This application is quite straightforward. 
+
+The current date is presented at the top of the page.
+
+To use the scheduler, simply click on the colored time block where you'd like to save an event, or notes, then type whatever you would like into the box. After entering your text, click the save button on the right hand side. Now that you've clicked save you can refresh the page or leave and come back any time you'd like, and your inputs will automatically populate within each respective time block.
 
 Grey indicates that the current time is past the grey time block's given time. Red indicates that the current time is within the same hour as the red time block's given time. A green time block indicates a future time.
 
@@ -37,6 +41,7 @@ Grey indicates that the current time is past the grey time block's given time. R
 N/A
 
 ## Screenshot
-
+![This is a screenshot of the finished webpage.](./screenshots/finished_webpage.png)
 
 ## Working link
+https://leucisticboi.github.io/WorkScheduler/
